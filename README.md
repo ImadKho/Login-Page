@@ -1,2 +1,2 @@
 # Login-Page
-Front end of a login page inspired of a youtube video
+Front end of a login page inspired by a youtube tutorial
